@@ -1,0 +1,26 @@
+sid,sentence1,sentence2,human_score,Gemini_0_5,Gemini_0_10,Gemini_0_100,Llama3.3_0_5,Llama3.3_0_10,Llama3.3_0_100
+199,A group of people are sitting at at a beach on towels watching the Blue Angels.,A group of people are sitting at a beach watching the Blue Angels.,4.2,4.0,9.0,95.0,4.0,9.0,96.0
+18,Governor Gray Davis estimated yesterday that the fires could cost nearly $2 billion.,State officials estimated the cost at nearly $2 billion.,3.5,4.0,7.0,75.0,4.0,8.0,74.0
+65,You need to read a lot to know what you like and what you don't.,"You have to decide how much you want to demand, and what unmet demands you can live with.",0.0,0.0,2.0,10.0,1.0,2.0,10.0
+592,Three children wrestle on a floral carpet.,Three children playing on the floor.,3.8,3.0,6.0,75.0,4.0,6.0,73.0
+134,Q: Can I buy coverage for prescription drugs right away?,Congress has added a new benefit - an option to buy insurance coverage for prescription drugs.,1.25,2.0,4.0,40.0,4.0,8.0,73.0
+443,Kodak expects earnings of 5 cents to 25 cents a share in the quarter.,Analysts surveyed by Thomson First Call had expected Kodak to earn 68 cents a share for the quarter.,2.4,2.0,4.0,40.0,1.0,2.0,8.0
+411,A man is holding a leaf.,A monkey is fighting a man.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+154,Senate confirms Janet Yellen as chair of US Federal Reserve,Senate confirms Janet Yellen as next Federal Reserve Chair,5.0,5.0,9.0,95.0,5.0,9.0,98.0
+1183,A woman in a blue bathing suit is jumping off a dock into a lake.,a boy in a blue shirt and blue jeans runs across a playground,0.4,0.0,1.0,10.0,1.0,2.0,10.0
+421,A man is sitting and smoking.,A man is smoking a cigarette.,4.0,4.0,8.0,90.0,4.0,8.0,87.0
+342,"""Let's show we won't let them off,"" said Marc Blondel, leader of the Force Ouvriere union.","""The movement to defend pensions is gaining momentum, and we won't give up,"" said Marc Blondel, leader of the Force Ouvriere union.",2.2,2.0,6.0,40.0,4.0,8.0,85.0
+148,Two workers are sitting next to pipes eating lunch,The construction workers are sitting down to eat lunch.,3.8,3.0,7.0,75.0,4.0,8.0,73.0
+196,"""Both of these kids are in wonderful physical condition right now,"" he said during a press briefing at the hospital.","""Both of these kids are in wonderful physical condition right now,"" said Goodrich, also director of pediatric neurosurgery at the Children's Hospital at Montefiore.",3.4,5.0,9.0,95.0,5.0,9.0,96.0
+321,"The meat, poultry, butter, cheese and nuts were impounded a year ago at a LaGrou Cold Storage warehouse in Chicago.","The meat, poultry, butter, cheese and nuts were being stored by more than 100 wholesalers in Chicago.",1.8,3.0,7.0,65.0,4.0,8.0,67.0
+351,"Under Mexican law, bounty hunting is considered a form of kidnapping.","Bounty hunting is illegal in Mexico, and the bounty hunter was charged with kidnapping.",4.0,4.0,7.0,85.0,4.0,8.0,87.0
+679,McGill also detailed the hole that had been cut in the Caprice's trunk.,McGill also said a dark glove was stuffed into a hole that had been cut in the Caprice's trunk.,2.25,3.0,8.0,85.0,4.0,8.0,87.0
+683,A man is smoking.,A baby is sucking on a pacifier.,0.0,0.0,0.0,10.0,0.0,0.0,10.0
+160,A group of people are wearing police uniforms conducting an arrest.,A group of police officers are wearing protection.,2.8,2.0,4.0,40.0,2.0,6.0,40.0
+861,I think it is depends on the program.,It depends on how the term is used I think.,2.0,2.0,6.0,65.0,3.0,6.0,67.0
+337,A group of horses grazing in a field.,Group of horses grazing in grassy field.,4.8,4.0,9.0,95.0,5.0,9.0,98.0
+449,"Singapore reported no suspected SARS cases Wednesday, but officials quarantined 70 people who had contact with the Taiwanese patient.","Still, Singapore quarantined 70 people who had been in close contact with the scientist.",3.0,4.0,7.0,70.0,4.0,8.0,73.0
+892,You answered your own question.,You pretty much answered your own question.,5.0,4.0,9.0,95.0,5.0,9.0,98.0
+507,A woman stands in front of a building in the snow.,Two women and a baby pose in front of a dining room.,0.0,1.0,1.0,10.0,0.0,2.0,10.0
+567,I think you're looking for Mikey (1992).,I think you're looking for the movie,3.0,3.0,6.0,60.0,4.0,6.0,67.0
+512,A man is playing a ukulele.,A man is sitting and playing a small guitar.,2.2,4.0,7.0,85.0,4.0,8.0,87.0
