@@ -53,3 +53,16 @@ This dataset can be used to:
 * Compare LLM judgment consistency when the underlying grading scale is altered (0-5, 0-10, 0-100).
 * Investigate systematic subgroup differences in human-LLM alignment across different demographic groups (e.g., by analyzing gender-based annotation variations).
 * Evaluate the impact of benchmark heterogeneity and model generation temperatures on evaluation quality.
+
+### Citation
+
+If you find this work useful, please cite:
+
+```bibtex
+@article{li2026grading,
+  title={Grading Scale Impact on LLM-as-a-Judge: Human-LLM Alignment Is Highest on 0-5 Grading Scale},
+  author={Li, Weiyue and Zhao, Minda and Dong, Weixuan and Cai, Jiahui and Wei, Yuze and Pocress, Michael and Li, Yi and Yuan, Wanyan and Wang, Xiaoyue and Hou, Ruoyu and others},
+  journal={arXiv preprint arXiv:2601.03444},
+  year={2026}
+}
+```
